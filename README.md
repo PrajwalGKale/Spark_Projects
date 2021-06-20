@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="80px",height"70">There, I am Prajwal Kale & you're Welcome here !!! </h1>
+<h1 align="left">Hi<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="80px",height"70">There, I am Prajwal Kale & you're Welcome here !!! </h1>
 <br>
 
 # Spark_Projects
