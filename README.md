@@ -1,3 +1,6 @@
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="80px",height"70">, I am Prajwal Kale & you're Welcome here !!! </h1>
+<br>
+
 # Spark_Projects
 
 <img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
