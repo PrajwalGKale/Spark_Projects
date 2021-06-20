@@ -2,7 +2,7 @@
 
 <img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
-[![](https://img.shields.io/badge/Author_Prajwal_Kale-green.svg)](https://github.com/PrajwalGKale)<br>
+[![](https://img.shields.io/badge/Author-Prajwal-Kale-green.svg)](https://github.com/PrajwalGKale)<br>
 [![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcom_here-brightgreen.svg?style=flat&logo=github)](https://demaria11)![](https://img.shields.io/badge/Programming_Language-Python-orange.svg)![](https://img.shields.io/badge/Status-Complete-green.svg)[![](https://img.shields.io/github/License/demaria11/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/demaria11/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/code-size/demaria11/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/demaria11/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/top/demaria11/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/demaria11/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/Follow/demaria11.svg?style=plastic)](https://github.com/demaria11)[![GitHub issues](https://img.shields.io/github/issues/demaria11/THE-SPARKS-FOUNDATION.svg)](https://github.com/demaria11/THE-SPARKS-FOUNDATION/issues) [![GitHub forks](https://img.shields.io/github/forks/demaria11/THE-SPARKS-FOUNDATION.svg)](https://github.com/demaria11/THE-SPARKS-FOUNDATION/network) [![GitHub stars](https://img.shields.io/github/stars/demaria11/THE-SPARKS-FOUNDATION.svg)](https://github.com/demaria11/THE-SPARKS-FOUNDATION/stargazers)
 [![](https://img.shields.io/badge/Followme-Github-green.svg)](https://github.com/demaria11)
 <br><br><br>
