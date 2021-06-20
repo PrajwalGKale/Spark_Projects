@@ -181,9 +181,9 @@ basic as well as advanced charts <br>
 <br />
 <hr />
 
-[youtube]: https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber
-[gmail]: mailto:devesh6571@gmail.com
-[linkedin]: https://www.linkedin.com/in//
+[youtube]: https://www.youtube.com/
+[gmail]: mailto:prajwalkale71234@gmail.com
+[linkedin]: https://www.linkedin.com/in/prajwal-kale-0590691a2/
 [github]: https://github.com/PrajwalGKale/
 
 
