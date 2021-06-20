@@ -1,6 +1,15 @@
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 <br>
 
+# Author : Prajwal Kale
+# Email  : prajwalkale71234@gmail.com
+___
+## Task 1 : Prediction using Supervised Machine Learning
+___
+## GRIP @ The Sparks Foundation
+____
+# Role : Data Science and Business Analytics [Batch May-2021]
+
 >  Problem statement :<br>
 - Predict the percentage of an student based on the no. of study hours. <br>
 - This is a simple linear regression task as it involves just 2 variables.<br>
