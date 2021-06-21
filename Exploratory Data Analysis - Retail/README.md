@@ -24,7 +24,7 @@ make more profit.<br>
 <br>
 
 > Here is the dataset :
-<a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a>
+<a href="https://github.com/PrajwalGKale/Spark_Projects/blob/main/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a>
 <br>
 
 > Solution:
