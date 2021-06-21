@@ -60,8 +60,8 @@ make more profit.<br>
 > Solution:
 <a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
 
-> Demo:
-<a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a>
+<!-- > Demo:
+<a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a> -->
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
