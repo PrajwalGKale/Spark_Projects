@@ -26,4 +26,4 @@ ____
 <br>
 
 > Solution:
-<a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb">Exploratory Data Analysis - Terrorism</a>
+<a href="https://github.com/PrajwalGKale/Spark_Projects/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/Task_04.ipynb">Exploratory Data Analysis - Terrorism</a>
