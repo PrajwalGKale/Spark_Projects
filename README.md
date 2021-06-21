@@ -97,14 +97,18 @@ predict the right class accordingly. <br>
 
 - What all business problems you can derive by exploring the data?<br>
 - You can choose any of the tool of your choice<br>
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
-- Here is the dataset :
-<a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/superstore.csv">Dataset.csv</a><br>
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+<br>
+
+>Here is the dataset :
+<a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/superstore.csv">Dataset.csv</a>
+<br>
+
 > Solution:
 <a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/Task-5.ipynb">To explore Business Analytics </a>
 
-> Demo:
-<a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a>
+<!-- > Demo:
+<a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a> -->
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Terrorism) -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -115,14 +119,18 @@ predict the right class accordingly. <br>
 - As a security/defense analyst, try to find out the hot zone of terrorism.<br>
 - What all security issues and insights you can derive by EDA?<br>
 - You can choose any of the tool of your choice
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
-- Here is the dataset :
-<a href="https://bit.ly/2TK5Xn5">Dataset.csv</a><br>
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+<br>
+
+>Here is the dataset :
+<a href="https://bit.ly/2TK5Xn5">Dataset.csv</a>
+<br>
+
 > Solution:
 <a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb">Exploratory Data Analysis - Terrorism</a>
 
-> Demo:
-<a href="https://youtu.be/a67W7Tl_g-8 ">Exploratory Data Analysis - Terrorism</a>
+<!-- > Demo:
+<a href="https://youtu.be/a67W7Tl_g-8 ">Exploratory Data Analysis - Terrorism</a> -->
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Sports) -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
