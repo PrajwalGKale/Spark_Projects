@@ -22,7 +22,7 @@ represent it visually.<br>
 <br>
 
 > Solution:
-<a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a>
+<a href="https://github.com/PrajwalGKale/Spark_Projects/blob/main/Prediction%20using%20Unsupervised%20ML/Task_02.ipynb"> Prediction using UnSupervised ML</a>
 
 <!-- > Demo:
 <a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a> -->
