@@ -4,7 +4,7 @@
 # Email  : prajwalkale71234@gmail.com
 ___
 
-## Task 3 : Exploratory Data Analysis - Retail
+## Task 6 : Prediction using Decision Tree Algorithm
 ___
 ## GRIP @ The Sparks Foundation
 ____
