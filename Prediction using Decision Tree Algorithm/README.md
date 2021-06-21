@@ -9,7 +9,7 @@ predict the right class accordingly. <br>
 <br>
 
 > Here is the dataset :
-<a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a>
+<a href="https://github.com/PrajwalGKale/Spark_Projects/blob/main/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a>
 <br>
 
 > Solution:
