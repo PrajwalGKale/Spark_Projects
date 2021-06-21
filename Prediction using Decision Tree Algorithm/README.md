@@ -26,4 +26,4 @@ predict the right class accordingly. <br>
 <br>
 
 > Solution:
-<a href="https://github.com/PrajwalGKale/Spark_Projects/blob/main/Prediction%20using%20Decision%20Tree%20Algorithm/Task_04.ipynb">Prediction using DecisionTreeAlgorithm </a>
+<a href="https://github.com/PrajwalGKale/Spark_Projects/blob/main/Prediction%20using%20Decision%20Tree%20Algorithm/Task_06.ipynb">Prediction using DecisionTreeAlgorithm </a>
