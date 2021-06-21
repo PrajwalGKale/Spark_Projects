@@ -54,9 +54,13 @@ represent it visually.<br>
 make more profit.<br>
 - What all business problems you can derive by exploring the data?<br>
 - You can choose any of the tool of your choice<br>
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
-- Here is the dataset :
-<a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br><br>
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+<br>
+
+> Here is the dataset :
+<a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a>
+<br>
+
 > Solution:
 <a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
 
@@ -71,14 +75,18 @@ make more profit.<br>
 - Create the Decision Tree classifier and visualize it graphically.<br>
 - The purpose is if we feed any new data to this classifier, it would be able to
 predict the right class accordingly. <br>
-- Use R or Python or perform this task<br>
-- Here is the dataset :
-<a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a><br><br>
+- Use R or Python or perform this task
+- <br>
+-
+> Here is the dataset :
+<a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/Iris27%20.csv">Dataset.csv</a>
+<br>
+
 > Solution:
 <a href="https://github.com/PrajwalGKale/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a>
 
-> Demo:
-<a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a>
+<!-- > Demo:
+<a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a> -->
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/To explore Business Analytics -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
